@@ -1,2 +1,3 @@
 # c_program
- c basics in that repo
+ basics of c programming
+ 
